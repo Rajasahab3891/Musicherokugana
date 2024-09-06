@@ -11,13 +11,13 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("")
 
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "@Spotifyxmuzicbot")
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "spotify")
+BOT_NAME = getenv("BOT_NAME" , "Lado")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -84,7 +84,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/6eb9d290b8c7044d70a93.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/f1e2fce89f46e84e46207.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/cedc09506159784b7f7ce.jpg"
