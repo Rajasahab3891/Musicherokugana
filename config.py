@@ -17,7 +17,7 @@ BOT_TOKEN = getenv("")
 BOT_USERNAME = getenv("BOT_USERNAME" , "@Spotifyxmuzicbot")
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Lado")
+BOT_NAME = getenv("BOT_NAME" , "ﮩ٨ـﮩﮩ٨ـ𝐊𝐈𝐍𝐆 ⤅𝐕𝐈𝐑𝐔ـﮩﮩ٨ـ")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -84,12 +84,12 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/f1e2fce89f46e84e46207.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/c3e75a195cdda1380a176.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/cedc09506159784b7f7ce.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/5bf629d10afd4af953585.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/235b5dca9b52b8f2e7166.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/ff6d35deebde5a1e87b9a.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/99fd77e30ac338bcc21ad.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/b28c63ba79db0d999e79c.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/b28c63ba79db0d999e79c.jpg"
