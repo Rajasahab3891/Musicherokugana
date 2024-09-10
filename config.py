@@ -38,7 +38,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/golujha9936/REDZONExMUSlC",
+    "https://te.legra.ph/file/ebc3fc421b8776e29ad98.mp4",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
